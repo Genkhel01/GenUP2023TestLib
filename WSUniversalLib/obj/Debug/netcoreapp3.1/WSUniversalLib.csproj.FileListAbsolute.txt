@@ -1,0 +1,10 @@
+C:\Users\stud\Source\Repos\UP2023Test\Gen01Test0Library\WSUniversalLib\bin\Debug\netcoreapp3.1\WSUniversalLib.deps.json
+C:\Users\stud\Source\Repos\UP2023Test\Gen01Test0Library\WSUniversalLib\bin\Debug\netcoreapp3.1\WSUniversalLib.dll
+C:\Users\stud\Source\Repos\UP2023Test\Gen01Test0Library\WSUniversalLib\bin\Debug\netcoreapp3.1\WSUniversalLib.pdb
+C:\Users\stud\Source\Repos\UP2023Test\Gen01Test0Library\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.csproj.AssemblyReference.cache
+C:\Users\stud\Source\Repos\UP2023Test\Gen01Test0Library\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Source\Repos\UP2023Test\Gen01Test0Library\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.AssemblyInfoInputs.cache
+C:\Users\stud\Source\Repos\UP2023Test\Gen01Test0Library\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.AssemblyInfo.cs
+C:\Users\stud\Source\Repos\UP2023Test\Gen01Test0Library\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Source\Repos\UP2023Test\Gen01Test0Library\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.dll
+C:\Users\stud\Source\Repos\UP2023Test\Gen01Test0Library\WSUniversalLib\obj\Debug\netcoreapp3.1\WSUniversalLib.pdb
